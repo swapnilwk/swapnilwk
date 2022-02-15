@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swapnilwk
-- 👀 I’m interested in .Net based projects
-- 🌱 I’m currently learning Azure
+- 👀 I’m interested in .Net and Azure based projects
+- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
